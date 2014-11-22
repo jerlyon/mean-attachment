@@ -1,0 +1,17 @@
+{
+  "name": "attachment",
+  "version": "0.0.1",
+  "description": "Enable file attachments on your site",
+  "author": {
+    "name": "jerlyon"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "mean": "0.4.0",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "license": "GPLv2"
+}
